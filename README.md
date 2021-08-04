@@ -7,6 +7,7 @@ you should have mySQL running in order to connect to the database and run the pr
 # Create database named ==> db
 # Create table named ==> books
 
-#Default password for manager is==> qwerty
-#Password used for databse is==> mypass123
-#Database table name used is==> db
+# Default password for manager is==> qwerty
+# Password used for databse is==> mypass123
+# Table name used is ==> books
+# Database name used ==> db
