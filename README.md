@@ -9,5 +9,4 @@ you should have mySQL running in order to connect to the database and run the pr
 
 # Default password for manager is==> qwerty
 # Password used for databse is==> mypass123
-# Table name used is ==> books
-# Database name used ==> db
+
